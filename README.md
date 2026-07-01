@@ -129,3 +129,16 @@ https://www.hackerrank.com/profile/Chinmay_09
 Email
 
 chinmaykalgutkar09@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay0904&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay0904&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chinmay0904&theme=tokyonight" />
+</p>
