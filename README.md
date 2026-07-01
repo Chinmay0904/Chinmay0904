@@ -4,6 +4,10 @@
 💻 Aspiring Software Engineer | ☕ Java Developer | 📚 DSA Learner
 </h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Chinmay0904&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -19,7 +23,7 @@ class Chinmay {
 
     String college = "Terna Engineering College";
 
-    String currentFocus = "Java + DSA";
+    String currentFocus = "Java + Data Structures & Algorithms";
 
     String[] languages = {
         "Java",
@@ -27,9 +31,7 @@ class Chinmay {
         "SQL"
     };
 
-    String[] learning = {
-        "Data Structures",
-        "Algorithms",
+    String[] currentlyLearning = {
         "JDBC",
         "Git",
         "REST APIs",
@@ -40,6 +42,12 @@ class Chinmay {
         "Software Development",
         "Chess",
         "Table Tennis"
+    };
+
+    String[] hackathons = {
+        "Smart India Hackathon",
+        "TechTashan",
+        "CodePrix 1.0"
     };
 
     void goal() {
@@ -55,28 +63,19 @@ class Chinmay {
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
----
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
 
 ---
 
@@ -86,7 +85,7 @@ class Chinmay {
 
 📌 Student Management System
 
-📌 Smart India Hackathon – FRA Atlas & DSS
+📌 FRA Atlas & Decision Support System (Smart India Hackathon)
 
 ---
 
@@ -102,43 +101,50 @@ class Chinmay {
 
 ## 🎯 Current Goals
 
-✅ Master Java
-
-✅ Solve 300+ DSA Problems
-
-✅ Build 5 Java Projects
-
-✅ Crack Product-Based Companies
-
----
-
-## 📫 Connect With Me
-
-LinkedIn
-
-https://www.linkedin.com/in/chinmay-kalgutkar-5068b1290
-
-GitHub
-
-https://github.com/Chinmay0904
-
-HackerRank
-
-https://www.hackerrank.com/profile/Chinmay_09
-
-Email
-
-chinmaykalgutkar09@gmail.com
+- ✅ Master Java
+- ✅ Solve 300+ DSA Problems
+- ✅ Build 5 Java Projects
+- ✅ Strengthen DBMS & OOP
+- ✅ Crack Product-Based Companies
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay0904&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay0904&layout=compact&theme=tokyonight" height="180"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chinmay0904&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay0904&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chinmay0904&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=Chinmay0904&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/chinmay-kalgutkar-5068b1290
+
+💻 GitHub
+
+https://github.com/Chinmay0904
+
+🏆 HackerRank
+
+https://www.hackerrank.com/profile/Chinmay_09
+
+📧 Email
+
+chinmaykalgutkar09@gmail.com
+
+---
+
+⭐ *"Learning one commit at a time."*
